@@ -18,10 +18,4 @@ These notes are designed to:
 4. [VLAN and IRB Configuration](./vlan-irb.md)  
 5. [Troubleshooting Tips](./troubleshooting.md)  
 
-## Usage
-
-Feel free to browse these notes to deepen your understanding of modern data center networking.  
-These are my personal study notes and will be expanded and refined over time.
-
----
 
