@@ -10,12 +10,6 @@ These notes are designed to:
 - Serve as a quick reference for Spine-Leaf topology, BGP, EVPN, VXLAN, and related protocols.  
 - Provide contextual explanations and practical insights tied to my lab configurations.  
 
-## Structure
-
-- Each note focuses on a specific topic or concept.  
-- Configuration examples included where relevant.  
-- Written in markdown for easy reading and editing.
-
 ## Contents
 
 1. [Spine-Leaf Overview](./spine-leaf-overview.md)  
