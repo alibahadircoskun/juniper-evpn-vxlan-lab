@@ -5,7 +5,7 @@ While working on my Juniper EVPN-VXLAN lab, I encountered a frustrating problem 
 ## The Problem
 
 - I could successfully ping the physical gateway IP address on the IRB interface.
-- However, the **virtual gateway IP** configured for VXLAN did not respond to pings.
+- However, the virtual gateway IP configured for VXLAN did not respond to pings.
 - As a result, hosts connected on different leaf switches could not communicate.
 - Additionally, VXLAN tunnels between the leaf switches were not forming properly, breaking the overlay connectivity.
 
